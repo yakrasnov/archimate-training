@@ -1,0 +1,7 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service vehicle"
+    id="id-5f07e35f91a64e84a937f9aef4f643f4">
+  <properties
+      key="Service type"/>
+</archimate:DataObject>

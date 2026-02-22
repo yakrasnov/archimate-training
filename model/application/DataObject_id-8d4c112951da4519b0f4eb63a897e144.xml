@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fleet vehicle"
+    id="id-8d4c112951da4519b0f4eb63a897e144">
+  <properties
+      key="Vendor"/>
+  <properties
+      key="Model"/>
+  <properties
+      key="Production date"/>
+  <properties
+      key="Service interval"/>
+  <properties
+      key="Last service date"/>
+</archimate:DataObject>
