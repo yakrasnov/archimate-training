@@ -1,7 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Passenger bus"
-    id="id-abf98f6bb27c4a288f4df97a08495c5a">
-  <properties
-      key="Passengers capacity"/>
-</archimate:DataObject>
