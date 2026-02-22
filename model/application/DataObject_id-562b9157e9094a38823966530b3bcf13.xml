@@ -1,7 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Towing vehicle"
-    id="id-562b9157e9094a38823966530b3bcf13">
-  <properties
-      key="Max towed weight"/>
-</archimate:DataObject>
