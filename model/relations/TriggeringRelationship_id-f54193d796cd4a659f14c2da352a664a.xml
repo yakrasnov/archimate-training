@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flight service order"
+    id="id-f54193d796cd4a659f14c2da352a664a"
+    documentation="Flight details:&#xA;- flight #&#xA;- airline name&#xA;- airplane:&#xA;&#x9;+ vendor&#xA;&#x9;+ model&#xA;&#x9;+ year issued&#xA;&#x9;+ details&#xA;- scheduled arrival:&#xA;&#x9;+ date and time&#xA;&#x9;+ terminal&#xA;- passanger service:&#xA;&#x9;+ bus&#xA;&#x9;+ teleport&#xA;- ground data:&#xA;&#x9;+ landing zone&#xA;&#xA;Next flight:&#xA;- scheduled departure:&#xA;&#x9;+ date and time&#xA;&#x9;+ terminal&#xA;&#x9;+ flight distance&#xA;&#xA;Airplane service:&#xA;&#x9;- required: yes&#xA;&#x9;- service items: &#xA;&#x9;&#x9;+ fuel&#xA;&#x9;&#x9;+ cleaning&#xA;&#x9;&#x9;+ catering&#xA;&#xA;Service priority: high/normal/low">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-38e21c7b8af448178b9508529349a54d.xml#id-38e21c7b8af448178b9508529349a54d"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-5c46df9c50c04dd78efebad698197cd8.xml#id-5c46df9c50c04dd78efebad698197cd8"/>
+</archimate:TriggeringRelationship>

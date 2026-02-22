@@ -1,0 +1,7 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tanker vehicle"
+    id="id-33b2e5a5a36d4456b318f2dd4aacc95a">
+  <properties
+      key="Tank capacity"/>
+</archimate:DataObject>
